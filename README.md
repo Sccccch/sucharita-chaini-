@@ -1,5 +1,4 @@
-//# sucharita-chaini-
-Tic tac toe game
+
 #include <stdio.h>
 #include <stylish.h>
 char** createboard();
